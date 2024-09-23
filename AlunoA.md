@@ -1,0 +1,1 @@
+Um commit é todas as mudanças guardadas no histórico do projeto. Eles são alinhados no tempo e finalmente guardados no repositório remoto.
